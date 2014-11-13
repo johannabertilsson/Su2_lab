@@ -10,7 +10,8 @@ namespace Implementera_Stack
     public class Stack
         /////bllalblalbla
         //changes made 
-    {
+    {///Changes made that is to be merged 
+     ///
         private ListNode firstNode;
         private ListNode tailNode; 
         private int lenght; 
