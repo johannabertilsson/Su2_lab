@@ -8,7 +8,8 @@ using System.Collections;
 namespace Implementera_Stack
 {
     public class Stack
-
+        /////bllalblalbla
+        //changes made 
     {
         private ListNode firstNode;
         private ListNode tailNode; 
